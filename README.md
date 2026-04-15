@@ -1,4 +1,4 @@
-# Projeto Revisão 3 - API de Gestão (Funcionários e Produtos)
+# Sistema De Gestão Empresa 3 - API de Gestão (Funcionários e Produtos)
 
 Este projeto é uma API REST desenvolvida em Java com Spring Boot, criada para gerenciar cadastros de funcionários e produtos. O sistema utiliza JPA/Hibernate para persistência de dados em banco MySQL e possui um sistema robusto de tratamento de erros.
 
